@@ -2,9 +2,7 @@
 #以下是一级域名
 
 msftauth.net
-
 msauth.net
-
 live.com
 
 msn.com
