@@ -1,5 +1,5 @@
 # 如何正常访问bing国际版？  
-如果只把bing.com加入pac代理列表中，还是会跳转到cn.bing.com中去的，把下面的列表都加入pac代理列表中，就完美解决这个问题了。
+如果只把bing.com加入pac代理列表中，还是会跳转到cn.bing.com中去的，把下面的列表都加入pac代理列表中，就完美解决这个问题了。  
 #以下是一级域名（可以只加一级域名列表）    
 msftauth.net  
 msauth.net  
