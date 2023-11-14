@@ -1,6 +1,8 @@
 # bing国际版会访问的域名列表
 #以下是一级域名
+
 msftauth.net
+
 msauth.net
 live.com
 msn.com
