@@ -18,17 +18,14 @@ bingapis.com
 microsoftonline.com  
 akamaized.net  
 digicert.com  
-nelreports.net  
+nelreports.net
 hotmail.com  
 clarity.ms  
 openai.com  
 digicert.com  
-nelreports.net  
 ampproject.org  
-nelreports.net  
 enapi.cn  
 windows.com  
-microsoftonline.com  
 scorecardresearch.com  
 substrate.office.com  
 
